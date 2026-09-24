@@ -43,7 +43,7 @@ I am a passionate Full-Stack Developer with hands-on experience building scalabl
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[University Selection Platform](https://github.com/redietg40/university-selection-platform)** | A full-stack platform for university applications with role-based dashboards. | Next.js, Node.js, PostgreSQL |
+| **[University Selection Platforms](https://github.com/redietg40/university-selection-platform)** | A full-stack platform for university applications with role-based dashboards. | Next.js, Node.js, PostgreSQL |
 | **[Internship Placement Platform](https://github.com/redietg40/internship-placement)** | A platform connecting students with internship opportunities. | PHP, MySQL, JavaScript |
 | **[AddToCare](https://github.com/redietg40/adtocare)** | A women's empowerment platform with a revenue-sharing model. | Next.js, React, Node.js, PostgreSQL |
 | **[Broker Management System](https://github.com/redietg40/brokermanagement-System)** | A multi-category platform for brokers with role-based access control. | Node.js, Express, PostgreSQL |
