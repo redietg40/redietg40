@@ -1,6 +1,6 @@
 # Hi, I'm Rediet Getahun 👋
 
-📍 Computer Science Graduate | Full-Stack Developer | Addis Ababa, Ethiopia
+📍 Computer Science Graduate | Full-Stack Developer | Bahir Dar, Ethiopia
 
 I am a passionate Full-Stack Developer with hands-on experience building scalable web and mobile applications. I enjoy learning new technologies, solving real-world problems, and delivering clean, maintainable code.
 
