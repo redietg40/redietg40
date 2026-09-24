@@ -43,10 +43,10 @@ I am a passionate Full-Stack Developer with hands-on experience building scalabl
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[University Selection Platform](https://github.com/redietg40/university-selection-platform)** | A full-stack platform for university applications with role-based dashboards for students, universities, and MOE admins. Includes a React Native mobile app. | Next.js, Node.js, PostgreSQL, React Native |
-| **[Internship Placement Platform](https://github.com/redietg40/internship-placement)** | A platform connecting students with internship opportunities. Features secure dashboards for students to search and apply, and for companies to manage postings. | PHP, MySQL, JavaScript |
-| **[AddToCare](https://github.com/redietg40/adtocare)** | A women's empowerment platform with a revenue-sharing model that allocates product sales to women's support programs. | Next.js, React, Node.js, PostgreSQL |
-| **[Broker Management System](https://github.com/redietg40/brokermanagement-System)** | A multi-category platform for brokers with role-based access control, license verification, and real-time listing approval. | Node.js, Express, PostgreSQL |
+| **[University Selection Platform](https://github.com/redietg40/university-selection-platform)** | A full-stack platform for university applications with role-based dashboards. | Next.js, Node.js, PostgreSQL |
+| **[Internship Placement Platform](https://github.com/redietg40/internship-placement)** | A platform connecting students with internship opportunities. | PHP, MySQL, JavaScript |
+| **[AddToCare](https://github.com/redietg40/adtocare)** | A women's empowerment platform with a revenue-sharing model. | Next.js, React, Node.js, PostgreSQL |
+| **[Broker Management System](https://github.com/redietg40/brokermanagement-System)** | A multi-category platform for brokers with role-based access control. | Node.js, Express, PostgreSQL |
 
 ---
 
@@ -66,5 +66,6 @@ I am a passionate Full-Stack Developer with hands-on experience building scalabl
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rediet-getahun-33897736b)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wrgx-git-main-getahunredu19-8365s-projects.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redietg40)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redugetahun21@gmail.com)
