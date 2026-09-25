@@ -40,11 +40,6 @@ I am a passionate Full-Stack Developer with hands-on experience building scalabl
 
 ---
 
-### 📊 GitHub Stats
-
-![Rediet's GitHub stats](https://github-readme-stats.vercel.app/api?username=redietg40&show_icons=true&theme=dark)
-
----
 
 ### 📫 How to Reach Me
 
